@@ -8,7 +8,7 @@ note about Obj1
 ![[audio3.mp3]]
 
 `![[audio3.wav]]`
-![[audio3.wav]]
+![[assets/audio3.wav]]
 
 `![[assets/img.png]]`
 ![[_notes/objects/img.png]]

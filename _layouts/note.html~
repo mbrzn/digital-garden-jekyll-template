@@ -14,7 +14,6 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
-      {% include open-embed.html %} 
       <p>This line appears after every note.</p>
     </content>
 
